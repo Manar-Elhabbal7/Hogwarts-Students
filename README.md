@@ -3,6 +3,9 @@
 This is a Hogwarts Students App built using Flutter Inspired by Harry Potter series . It supports login and signup using firebase authenticaton 
 and allow add student and choose his House and allow list all the students using firestore with very elegant UI . 
 
+## Note
+
+if u will clone the repo u should add your api key and firebase project ID u made I removed my personal api key and these info for security.  good luck 
 <!--
 ---
 ## Screens
