@@ -41,50 +41,83 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDWuw1okwlKutB3SZkQbH30eplSE8eXPB0',
-    appId: '1:117673821208:web:66c73bb1890b4511e76f6d',
-    messagingSenderId: '117673821208',
-    projectId: 'student-system-50843',
-    authDomain: 'student-system-50843.firebaseapp.com',
-    storageBucket: 'student-system-50843.firebasestorage.app',
-    measurementId: 'G-0N1SV1R5WC',
+    // TODO: Put your Firebase web API key here
+    apiKey: '',
+    // TODO: Put your Firebase web app ID here
+    appId: '',
+    // TODO: Put your Firebase messaging sender ID here
+    messagingSenderId: '',
+    // TODO: Put your Firebase project ID here
+    projectId: '',
+    // TODO: Put your Firebase auth domain here
+    authDomain: '',
+    // TODO: Put your Firebase storage bucket here
+    storageBucket: '',
+    // TODO: Put your Firebase measurement ID here
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyChPVIjFAXJG7ZI7GJVCsEjeOReBk6JqP0',
-    appId: '1:117673821208:android:979b916c5d77e1d0e76f6d',
-    messagingSenderId: '117673821208',
-    projectId: 'student-system-50843',
-    storageBucket: 'student-system-50843.firebasestorage.app',
+    // TODO: Put your Firebase Android API key here
+    apiKey: '',
+    // TODO: Put your Firebase Android app ID here
+    appId: '',
+    // TODO: Put your Firebase messaging sender ID here
+    messagingSenderId: '',
+    // TODO: Put your Firebase project ID here
+    projectId: '',
+    // TODO: Put your Firebase storage bucket here
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyADp2BQBfMo8S6FRFPaMaZD-GXKG_g3aK8',
-    appId: '1:117673821208:ios:4fb126937f3243dee76f6d',
-    messagingSenderId: '117673821208',
-    projectId: 'student-system-50843',
-    storageBucket: 'student-system-50843.firebasestorage.app',
-    iosClientId: '117673821208-hhmo95tj591jfr1untb2mt1n9kh9rgoa.apps.googleusercontent.com',
-    iosBundleId: 'com.example.studentSystem',
+    // TODO: Put your Firebase iOS API key here
+    apiKey: '',
+    // TODO: Put your Firebase iOS app ID here
+    appId: '',
+    // TODO: Put your Firebase messaging sender ID here
+    messagingSenderId: '',
+    // TODO: Put your Firebase project ID here
+    projectId: '',
+    // TODO: Put your Firebase storage bucket here
+    storageBucket: '',
+    // TODO: Put your Firebase iOS client ID here
+    iosClientId: '',
+    // TODO: Put your Firebase iOS bundle ID here
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyADp2BQBfMo8S6FRFPaMaZD-GXKG_g3aK8',
-    appId: '1:117673821208:ios:4fb126937f3243dee76f6d',
-    messagingSenderId: '117673821208',
-    projectId: 'student-system-50843',
-    storageBucket: 'student-system-50843.firebasestorage.app',
-    iosClientId: '117673821208-hhmo95tj591jfr1untb2mt1n9kh9rgoa.apps.googleusercontent.com',
-    iosBundleId: 'com.example.studentSystem',
+    // TODO: Put your Firebase macOS API key here
+    apiKey: '',
+    // TODO: Put your Firebase macOS app ID here
+    appId: '',
+    // TODO: Put your Firebase messaging sender ID here
+    messagingSenderId: '',
+    // TODO: Put your Firebase project ID here
+    projectId: '',
+    // TODO: Put your Firebase storage bucket here
+    storageBucket: '',
+    // TODO: Put your Firebase macOS client ID here
+    iosClientId: '',
+    // TODO: Put your Firebase macOS bundle ID here
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDWuw1okwlKutB3SZkQbH30eplSE8eXPB0',
-    appId: '1:117673821208:web:d0a4a4bfea9a9af6e76f6d',
-    messagingSenderId: '117673821208',
-    projectId: 'student-system-50843',
-    authDomain: 'student-system-50843.firebaseapp.com',
-    storageBucket: 'student-system-50843.firebasestorage.app',
-    measurementId: 'G-2XGP5V6GCE',
+    // TODO: Put your Firebase Windows API key here
+    apiKey: '',
+    // TODO: Put your Firebase Windows app ID here
+    appId: '',
+    // TODO: Put your Firebase messaging sender ID here
+    messagingSenderId: '',
+    // TODO: Put your Firebase project ID here
+    projectId: '',
+    // TODO: Put your Firebase auth domain here
+    authDomain: '',
+    // TODO: Put your Firebase storage bucket here
+    storageBucket: '',
+    // TODO: Put your Firebase measurement ID here
+    measurementId: '',
   );
 }
