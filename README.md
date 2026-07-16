@@ -6,17 +6,18 @@ and allow add student and choose his House and allow list all the students using
 ## Note
 
 if u will clone the repo u should add your api key and firebase project ID u made I removed my personal api key and these info for security.  good luck 
-<!--
----
+
+
 ## Screens
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/a4f12258-b513-4a24-b23a-8d659a8222b3" width="170"/></td>
-    <td><img src="https://github.com/user-attachments/assets/58584c6d-7f28-4a68-af6d-456a5b6f71fe" width="170"/></td>
-    <td><img src="https://github.com/user-attachments/assets/00298ffc-8701-4816-9fc7-2acfc014e6e5" width="170"/></td>
-    <td><img src="https://github.com/user-attachments/assets/66cefb11-298e-48f2-86a3-ac755048ab06" width="170"/></td>
-    <td><img src="https://github.com/user-attachments/assets/8ce6db3f-c950-433e-9761-a2238d2c21db" width="170"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b303d5d8-6130-4b08-a120-c902d2086fe6" width="170"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7d6fb85a-25dd-4eda-8b2a-f370ae6fea30" width="170"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c11789b3-9700-4b31-9c72-9a0307426be9" width="170"/></td>
+    <td><img src="https://github.com/user-attachments/assets/579e4aad-5b4a-4e03-a796-d51d37463ab7" width="170"/></td>
+    <td><img src="https://github.com/user-attachments/assets/01561301-a2c8-44e5-b58a-8761e4ae6b33" width="170"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4953b703-35e2-4238-bebe-e7368d2eadb2" width="170"/></td>
   </tr>
   
   <tr>
@@ -31,10 +32,11 @@ if u will clone the repo u should add your api key and firebase project ID u mad
 </table>
 
 ---
-<!--
+
+
 ## Demo 
 
-it will be added soon
 
- Note the button of adding students some time not show added when click again add again etc like todo problem try to solve and raise issue of it-->
+https://github.com/user-attachments/assets/6c1a8faf-010e-413f-abfa-4bd25c77b0b2
+
 
